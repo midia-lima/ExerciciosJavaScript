@@ -12,7 +12,7 @@ Módulo 05: Repetições (laços) em JavaScript;<br>
 Módulo 06: Avançando nos estudos em JavaScript.<br>
 
 <h2>Tecnologias</h2>
-<p>As Tecnologias utilizadas nesse repósitorio são:<br>
+<p>As Tecnologias utilizadas nesse repósitorio são:<br><br>
 <img src="img/html.png"> <b>HTML</b><br>
 <img src="img/css.png"> <b>CSS</b><br>
 <img src="img/javascript.png"> <b>JavaScript</b></p>
