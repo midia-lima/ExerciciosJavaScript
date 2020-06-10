@@ -1,7 +1,7 @@
 <h1>Exercícios de JavaScript com Gustavo Guanabara do Canal Curso em Vídeo</h1>
 
 <h2>Descrição</h2>
-<p>O Objetivo desse Reopósitorio é armazenar os exercícios desenvolvidos no curso de JavaScript.</p>
+<p>O Objetivo desse repósitorio é armazenar os exercícios desenvolvidos no curso de JavaScript.</p>
 
 <h2>Conteúdo com 6 Módulos</h2>
 Módulo 01: Conhecendo o JavaScript;<br>
@@ -13,9 +13,9 @@ Módulo 06: Avançando nos estudos em JavaScript.<br>
 
 <h2>Tecnologias</h2>
 <p>As Tecnologias utilizadas nesse repósitorio são:<br>
-<img src="html.png"> <b>HTML</b><br>
-<img src="css.png"> <b>CSS</b><br>
-<img src="javascript.png"> <b>JavaScript</b></p>
+<img src="img/html.png"> <b>HTML</b><br>
+<img src="img/css.png"> <b>CSS</b><br>
+<img src="img/javascript.png"> <b>JavaScript</b></p>
 
 <h2>Clonando o Repósitorio</h2>
 <p>Para clonar o repósitorio, você deve abrir o <b>terminal</b> ou <b>git bash</b> na pasta que deseja adicionar o projeto. Após isso execute a linha de comando:</p>
