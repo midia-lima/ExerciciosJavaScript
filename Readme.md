@@ -21,7 +21,6 @@ Módulo 06: Avançando nos estudos em JavaScript.<br>
 <p>Para clonar o repósitorio, você deve abrir o <b>terminal</b> ou <b>git bash</b> na pasta que deseja adicionar o projeto. Após isso execute a linha de comando:</p>
 
 ```shell
-cd "diretorio de sua preferencia"
 git clone https://github.com/midia-lima/ExerciciosJavaScript.git
 ```
 
