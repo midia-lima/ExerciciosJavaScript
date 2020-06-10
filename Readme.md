@@ -22,7 +22,7 @@ Módulo 06: Avançando nos estudos em JavaScript.<br>
 
 ```shell
 cd "diretorio de sua preferencia"
-git clone https://github.com/midia-lima/Exercicios-JavaScript.git
+git clone https://github.com/midia-lima/ExerciciosJavaScript.git
 ```
 
 <h2>Abrindo os Arquivos</h2>
