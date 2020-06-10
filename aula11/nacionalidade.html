@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NACIONALIDADE</title>
+</head>
+
+<style>
+
+</style>
+
+<body>
+    <h1>Em que país você vive?</h1>
+    <input type="text" name="pais" id="pais">
+    <input type="button" value="Checar" onclick="nacionalidade()">
+    <div id='res'></div>
+
+    <script>
+        let nacao = window.document.getElementById('pais') // ou podemos utilizar o query.Selector
+
+        function nacionalidade() {
+            let nacao = window.document.getElementById('pais')
+            let resp = window.document.getElementById('res')
+            let vel = String(nacao.value)
+                        
+            resp.innerHTML += `<p>Você nasceu no(a) <strong>${vel}, </strong></p>`
+
+            if (vel == 'Brasil') {
+                resp.innerHTML += `<p>Você é <strong>Brasileiro(a)</strong></p>`
+
+            } else {
+                resp.innerHTML += `<p>Você é <strong>Estrangeiro(a)</strong></p>`
+            }
+
+        }
+
+
+    </script>
+</body>
+
+</html>
