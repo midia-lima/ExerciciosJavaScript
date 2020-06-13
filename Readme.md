@@ -1,4 +1,4 @@
-<h1 align="center">Exercícios de JavaScript com Gustavo Guanabara do Canal Curso em Vídeo</h1><br><br>
+<h1 align="center">Exercícios de JavaScript com Gustavo Guanabara do Canal Curso em Vídeo</h1><br>
 
 <h2>Descrição</h2>
 <p>O Objetivo desse repósitorio é armazenar os exercícios desenvolvidos no curso de JavaScript.</p>
